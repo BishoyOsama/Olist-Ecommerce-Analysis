@@ -157,7 +157,7 @@ Data Cleaning
 
 Data Modeling:
 
-- The data was upload to google Big Query to make the data model you will find the sql queries for building the data model in model.sql
+- The data was uploaded to google Big Query to make the data model you will find the sql queries for building the data model in model.sql
 - Notice how the data model follows the galaxy schema (>1 fact table) that is for the elimination of many-to-many relationship
 
   <img width="923" height="709" alt="datamodel" src="https://github.com/user-attachments/assets/8877f763-491a-413a-a4bc-5a641615d91b" />
